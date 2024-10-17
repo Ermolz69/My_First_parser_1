@@ -1,0 +1,9 @@
+[package]
+name = "pars_kma"
+version = "0.1.0"
+edition = "2021"
+licence = "MIT"
+description = "A briedf description"
+
+[dependencies]
+peg = "0.8.4"
